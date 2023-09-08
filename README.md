@@ -1,15 +1,12 @@
-# Elysia with Bun runtime
+# Profit-Pulse: A dashboard for the profit & expense for the shop
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
-
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
-
-Open http://localhost:3000/ with your browser to see the result.
+- A complete dashboard for the small to medium size shop
+- Category of various expanses
+- Custom Wallet
+- Total Income & Expanse
+- Recurring Expanse Details
+- Transaction & Transactional History
+- Generate PDF list of history
+- Search (Category & Transaction name)
+- Notification
+- FAQ & Help(Support)
